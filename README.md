@@ -1,4 +1,4 @@
-# NotificationBannerSample
+# Notification Banner Sample
 
 
 Tools : Xcode 12.4
@@ -7,7 +7,7 @@ Language : Swift 5
 
 Purpose :
 
-Banner show 10 Seconds and dismiss the banner with swipe(Left,Right,Up,Down)
+Banner show 10 Seconds and dismiss the banner with swipe(Left, Right, Up, Down)
 
 Usage :
 
